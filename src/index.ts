@@ -1,0 +1,1 @@
+export { useCobaltLink } from './useCobaltLink';
